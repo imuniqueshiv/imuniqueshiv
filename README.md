@@ -50,9 +50,10 @@
 
 | **Core Stack** | **Frameworks & Libs** | **AI & Data** | **DevOps & Tools** |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br> ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-F36C3D?style=for-the-badge&logo=postman&logoColor=white) |
 
 </div>
+
 
 ---
 
@@ -73,7 +74,19 @@
 * **Tech:** `Node.js` `Express.js` `LLMs` `NLP`
 * [**View Code**](https://github.com/imuniqueshiv/MeetOnMemory)
 
-#### 3. **[Morse Code Hangman](https://imuniqueshiv.github.io/Morse-Code-Hang-Man/)** 📡
+#### 3. **[PROSYNCT — Project Management Tool](https://codesoft-blond.vercel.app/)** ⚙️
+> *Minimalist project management web app designed for small teams and solo developers.*
+* **Key Features:**  
+  * User authentication (signup/login) and protected routes  
+  * Create projects (title, description, deadline)  
+  * Add / update / complete / delete tasks  
+  * Automatic progress calculation — project status flips to **Completed** at 100%  
+  * Filters (All / Active / Completed), search, and owner-only delete for completed projects  
+  * Clean UI with branding, icons, and responsive layout  
+* **Tech:** `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT`  
+* [**Live Demo**](https://codesoft-blond.vercel.app/) • [**View Code**](https://github.com/imuniqueshiv/CODSOFT)
+
+#### 4. **[Morse Code Hangman](https://imuniqueshiv.github.io/Morse-Code-Hang-Man/)** 📡
 > *Gamified Education.*
 * **Concept:** An interactive game that teaches Morse Code mechanics wrapped in the classic Hangman logic.
 * **Tech:** `JavaScript` `DOM Manipulation` `CSS Animations`
