@@ -1,102 +1,173 @@
 <div align="center">
- 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=header" width="100%">
-  
- <h1 style="font-size: 3rem; margin-bottom: 0;">Hi, I'm Shiv Raj Singh 👨‍💻</h1>
-  
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Web+Systems;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
- </a>
 
- <p align="center" style="margin-top: 20px;">
-   <a href="https://github.com/imuniqueshiv" target="_blank">
-     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-   </a>&nbsp;
-   <a href="https://www.linkedin.com/in/shiv-raj-singh-387973299/" target="_blank">
-     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-   </a>&nbsp;
-   <a href="mailto:singhshivraj89969@gmail.com">
-     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-   </a>&nbsp;
-   <a href="https://www.kaggle.com/imuniqueshiv" target="_blank">
-     <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-   </a>&nbsp;
-   <a href="https://x.com/imuniqueshiv" target="_blank">
-     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-   </a>&nbsp;
-   <a href="https://medium.com/@imuniqueshiv" target="_blank">
-     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-   </a>
- </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:ff0000&height=180&section=header&text=SHIV%20RAJ%20SINGH&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+# AI/ML Student • Full Stack Developer
+
+Building AI-driven applications, scalable systems, and modern digital experiences.
+
+<br/>
+
+<a href="https://github.com/imuniqueshiv">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shiv-raj-singh-387973299/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:singhshivraj89969@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-ten-wine-86.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
----
+# 💫 About Me
 
-### ⚡ **About Me**
+I'm Shiv Raj Singh, a B.Tech student specializing in Artificial Intelligence & Machine Learning at **Sagar Institute of Research and Technology, Bhopal**.
 
-> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> **B.Tech Student (AI & ML) | Bhopal, India**
-> 
-> I bridge the gap between **Complex AI Models** and **User-Friendly Web Apps**. My passion lies in building systems that solve real-world problems, from educational platforms to intelligent meeting assistants.
+I enjoy building:
+- AI-powered applications
+- scalable web platforms
+- intelligent automation systems
+- clean and modern user experiences
 
-* 🔭 **Focus:** NLP, Large Language Models (LLMs), and Full-Stack Engineering.
-* 🌱 **Currently Learning:** Advanced MLOps & Scalable Cloud Architecture.
+# 🚀 Tech Stack
 
----
+## Languages
 
-### 🛠️ **Technical Arsenal**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+## Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/>
+</p>
+
+## Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge"/>
+</p>
+
+## Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+## AI / ML
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+# 📌 Featured Projects
+
+## Hyper Digital Learning Platform
+
+Modern EdTech platform providing:
+- PYQs
+- notes
+- academic resources
+- responsive learning experience
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 Live Demo  
+https://imuniqueshiv.github.io/Hyper-Learning/
+
+🔗 GitHub  
+https://github.com/imuniqueshiv/Hyper-Learning
+
+## AshaMitra AI
+
+Intelligent multilingual AI assistant focused on:
+- rural healthcare
+- native language communication
+- AI-powered guidance systems
+
+**Stack:** `React.js` `TailwindCSS` `Python` `MongoDB` `NLP`
+
+🔗 GitHub  
+https://github.com/imuniqueshiv/AshaMitra/
+
+## MeetOnMemory
+
+AI-powered meeting assistant with:
+- real-time transcription
+- NLP-based action extraction
+- searchable meeting memory
+
+**Stack:** `Node.js` `Express.js` `MongoDB` `JWT`
+
+🔗 GitHub  
+https://github.com/imuniqueshiv/MeetOnMemory
+
+## PROSYNCT
+
+Minimal project management platform featuring:
+- authentication
+- task tracking
+- productivity workflows
+- responsive dashboards
+
+**Stack:** `React.js` `TailwindCSS` `Node.js` `MongoDB`
+
+🔗 Live Demo  
+https://codesoft-blond.vercel.app/
+
+🔗 GitHub  
+https://github.com/imuniqueshiv/CODSOFT
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-| **Core Stack** | **Frameworks & Libs** | **AI & Data** | **DevOps & Tools** |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br> ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-F36C3D?style=for-the-badge&logo=postman&logoColor=white) |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imuniqueshiv&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=imuniqueshiv&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+# 🌐 Connect With Me
 
----
+📧 Email  
+**singhshivraj89969@gmail.com**
 
-### 🚀 **Featured Projects**
+🌐 Portfolio  
+https://my-portfolio-ten-wine-86.vercel.app/
 
-#### 1. **[Hyper Digital Learning Platform](https://imuniqueshiv.github.io/Hyper-Learning/)** 🎓
-> *A comprehensive EdTech resource hub for engineering students.*
-* **The Problem:** Students lack a centralized, free source for Previous Year Questions (PYQs) and high-quality notes.
-* **The Solution:** A responsive web platform hosting organized academic resources and digital solutions.
-* **Tech:** `HTML5` `CSS3` `JavaScript`
-* [**View Live Site**](https://imuniqueshiv.github.io/Hyper-Learning/) • [**View Code**](https://github.com/imuniqueshiv/Hyper-Learning)
-
-#### 2. **[AshaMitra AI](https://github.com/imuniqueshiv/AshaMitra/)** 📡
-> *Rural Healthcare.*
-* **Concept:** An intelligent, multilingual AI assistant designed to bridge communication gaps in rural healthcare and social support. It provides context-aware guidance and connects users to vital resources in their native languages.
-* **Tech:** `JavaScript` `React` `TailwindCSS` `Python` `MongoDB` `CNN/NLP`
-* [**View Code**](https://github.com/imuniqueshiv/AshaMitra/)
-
-#### 3. **[MeetOnMemory](https://github.com/imuniqueshiv/MeetOnMemory)** 🧠
-> *AI-Powered Meeting Assistant & Summarizer.*
-* **Key Features:** * Transcribes audio discussions in real-time.
-    * Uses NLP to extract **Action Items** automatically.
-    * Creates a searchable "memory" of team decisions.
-* **Tech:** `Node.js` `Express.js` `LLMs` `NLP`
-* [**View Code**](https://github.com/imuniqueshiv/MeetOnMemory)
-
-#### 4. **[PROSYNCT — Project Management Tool](https://codesoft-blond.vercel.app/)** ⚙️
-> *Minimalist project management web app designed for small teams and solo developers.*
-* **Key Features:**  
-  * User authentication (signup/login) and protected routes  
-  * Create projects (title, description, deadline)  
-  * Add / update / complete / delete tasks  
-  * Automatic progress calculation — project status flips to **Completed** at 100%  
-  * Filters (All / Active / Completed), search, and owner-only delete for completed projects  
-  * Clean UI with branding, icons, and responsive layout  
-* **Tech:** `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT`  
-* [**Live Demo**](https://codesoft-blond.vercel.app/) • [**View Code**](https://github.com/imuniqueshiv/CODSOFT)
-
-
-
----
+📍 Location  
+**Bhopal, India**
 
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer" width="100%">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:ff0000&height=120&section=footer"/>
+
+### © 2026 Shiv Raj Singh
+
 </div>
