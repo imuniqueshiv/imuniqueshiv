@@ -85,74 +85,6 @@ I enjoy building:
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-# 📌 Featured Projects
-
-## Hyper Digital Learning Platform
-
-Modern EdTech platform providing:
-- PYQs
-- notes
-- academic resources
-- responsive learning experience
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-🔗 Live Demo  
-https://imuniqueshiv.github.io/Hyper-Learning/
-
-🔗 GitHub  
-https://github.com/imuniqueshiv/Hyper-Learning
-
-## AshaMitra AI
-
-Intelligent multilingual AI assistant focused on:
-- rural healthcare
-- native language communication
-- AI-powered guidance systems
-
-**Stack:** `React.js` `TailwindCSS` `Python` `MongoDB` `NLP`
-
-🔗 GitHub  
-https://github.com/imuniqueshiv/AshaMitra/
-
-## MeetOnMemory
-
-AI-powered meeting assistant with:
-- real-time transcription
-- NLP-based action extraction
-- searchable meeting memory
-
-**Stack:** `Node.js` `Express.js` `MongoDB` `JWT`
-
-🔗 GitHub  
-https://github.com/imuniqueshiv/MeetOnMemory
-
-## PROSYNCT
-
-Minimal project management platform featuring:
-- authentication
-- task tracking
-- productivity workflows
-- responsive dashboards
-
-**Stack:** `React.js` `TailwindCSS` `Node.js` `MongoDB`
-
-🔗 Live Demo  
-https://codesoft-blond.vercel.app/
-
-🔗 GitHub  
-https://github.com/imuniqueshiv/CODSOFT
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imuniqueshiv&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=imuniqueshiv&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 # 🌐 Connect With Me
 
 📧 Email  
@@ -163,6 +95,15 @@ https://my-portfolio-ten-wine-86.vercel.app/
 
 📍 Location  
 **Bhopal, India**
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img 
+    src="https://commitpulse.vercel.app/api/streak?user=imuniqueshiv&bg=000000&accent=cc1e1e&text=cc1e1e"
+    width="850"
+  />
+</div>
 
 <div align="center">
 
